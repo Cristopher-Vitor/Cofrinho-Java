@@ -79,7 +79,7 @@ public class Console {
 			break;
 		case 4:
 			//Converte todas as moedas da lista para real
-			System.out.println("O total convertido para real é: " + cofrinho.totalConvertido());
+			System.out.printf("O total convertido para real é: " + "%.2f%n", cofrinho.totalConvertido());
 			exibirMenu();
 			break;
 			}	
