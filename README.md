@@ -1,6 +1,3 @@
 Trabalho de POO da faculdade. 
-O Cofrinho possui as funções de:
-  Adicionar Moedas
-  Remover Moedas
-  Listar Moedas
-  Converter Moedas para real
+O Cofrinho possui as funções de adicionar, remover, listar e converter moedas para real. 
+
